@@ -1,0 +1,1 @@
+export function minusFunction(a, b) { return a - b; }
