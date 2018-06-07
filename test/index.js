@@ -33,6 +33,6 @@ describe('Multiply test.', () => {
 
 describe('Divide test.', () => {
   it('testing divide function', () => {
-    assert(divideFunction(10, 5) === 2, 'Not awesome divice test :(');
+    assert(divideFunction(10, 5) === 2, 'Not awesome divide test :(');
   });
 });
