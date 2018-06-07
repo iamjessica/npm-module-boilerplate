@@ -1,0 +1,1 @@
+export function divideFunction(a, b) { return a / b; }
